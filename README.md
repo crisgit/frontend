@@ -11,13 +11,20 @@ Sistema referente no Gerenciamento de anotações pessoais: perfil de usuário, 
 * Ionic 4 Components/API Samples
 
 
-<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/login.png" width="128" align="left"><img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/telacadastro.png" width="128" align="left"><img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/telacadastro1.png" width="128" align="left"><img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/teladehome.png" width="128" align="left"><img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/teladomenu.png" width="128" align="left"><img src="https://github.com/frontend/blob/master/src/assets/img/sobre.png" width="128" align="left">
+<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/login.png" width="128" align="left">
+<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/telacadastro.png" width="128" align="left">
+<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/telacadastro1.png" width="128" align="left">
+<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/teladehome.png" width="128" align="left">
+<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/teladomenu.png" width="128" align="left">
+<img src="https://github.com/crisgit/frontend/blob/master/src/assets/img/sobre.png" width="128" align="left">
 
-<br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 ---
 
-Requesitos:
+
+Requisitos:
 ------------
 
 * Node 8.13+
